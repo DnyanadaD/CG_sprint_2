@@ -7,4 +7,4 @@ build_property.PublishSingleFile =
 build_property.IncludeAllContentForSelfExtract = 
 build_property._SupportedPlatformList = Android,iOS,Linux,macOS,Windows
 build_property.RootNamespace = GreenFreggies.API
-build_property.ProjectDir = C:\Users\HP\source\repos\GreenFreggiesApp\GreenFreggies.API\
+build_property.ProjectDir = C:\Users\soumy\Desktop\Sprint 2\CG_sprint_2\Backend(WebAPI)\GreenFreggiesApp\GreenFreggies.API\

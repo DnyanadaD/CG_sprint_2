@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\HP\\source\\repos\\GreenFreggiesApp\\GreenFreggies.API\\GreenFreggies.API.csproj": {}
+    "C:\\Users\\soumy\\Desktop\\Sprint 2\\CG_sprint_2\\Backend(WebAPI)\\GreenFreggiesApp\\GreenFreggies.API\\GreenFreggies.API.csproj": {}
   },
   "projects": {
-    "C:\\Users\\HP\\source\\repos\\GreenFreggiesApp\\GreenFreggies.API\\GreenFreggies.API.csproj": {
+    "C:\\Users\\soumy\\Desktop\\Sprint 2\\CG_sprint_2\\Backend(WebAPI)\\GreenFreggiesApp\\GreenFreggies.API\\GreenFreggies.API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\HP\\source\\repos\\GreenFreggiesApp\\GreenFreggies.API\\GreenFreggies.API.csproj",
+        "projectUniqueName": "C:\\Users\\soumy\\Desktop\\Sprint 2\\CG_sprint_2\\Backend(WebAPI)\\GreenFreggiesApp\\GreenFreggies.API\\GreenFreggies.API.csproj",
         "projectName": "GreenFreggies.API",
-        "projectPath": "C:\\Users\\HP\\source\\repos\\GreenFreggiesApp\\GreenFreggies.API\\GreenFreggies.API.csproj",
-        "packagesPath": "C:\\Users\\HP\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\HP\\source\\repos\\GreenFreggiesApp\\GreenFreggies.API\\obj\\",
+        "projectPath": "C:\\Users\\soumy\\Desktop\\Sprint 2\\CG_sprint_2\\Backend(WebAPI)\\GreenFreggiesApp\\GreenFreggies.API\\GreenFreggies.API.csproj",
+        "packagesPath": "C:\\Users\\soumy\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\soumy\\Desktop\\Sprint 2\\CG_sprint_2\\Backend(WebAPI)\\GreenFreggiesApp\\GreenFreggies.API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\HP\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\soumy\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -85,7 +85,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.406\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.408\\RuntimeIdentifierGraph.json"
         }
       }
     }

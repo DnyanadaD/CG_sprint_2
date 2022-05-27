@@ -9,8 +9,8 @@ namespace GreenFreggies.API.Services
 {
     public class VegetableServices
     {
-        private IVegetableRepository _vegetableRepository;
-        public VegetableServices(IVegetableRepository vegetableRepository)
+        private IVegetable _vegetableRepository;
+        public VegetableServices(IVegetable vegetableRepository)
         {
              _vegetableRepository=vegetableRepository;
         }
